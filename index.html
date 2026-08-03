@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Juan Pablo Arcos Merchan | Odoo Consultant & Developer</title>
+  <meta name="description" content="Odoo Consultant & Developer, Python & AI Expert. Implementación, personalización, migración de datos y versiones de Odoo, automatización de procesos.">
+  <meta name="author" content="Juan Pablo Arcos Merchan">
+  <link rel="icon" type="image/jpeg" href="assets/profile.jpg">
+  <link rel="stylesheet" href="css/styles.css">
+  <meta property="og:title" content="Juan Pablo Arcos Merchan | Odoo Consultant & Developer">
+  <meta property="og:description" content="Odoo Consultant & Developer | Python & AI Expert | Odoo Implementation, Customization & Migration | Process Automation">
+  <meta property="og:type" content="website">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="#inicio" class="brand">
+        <span class="brand-mark">JA</span>
+        <span class="brand-name">Juan Pablo Arcos</span>
+      </a>
+      <nav class="main-nav" id="main-nav" aria-label="Main navigation">
+        <a href="#inicio" data-key="nav.home"></a>
+        <a href="#sobre-mi" data-key="nav.about"></a>
+        <a href="#servicios" data-key="nav.services"></a>
+        <a href="#experiencia" data-key="nav.experience"></a>
+        <a href="#educacion" data-key="nav.education"></a>
+        <a href="#contacto" data-key="nav.contact"></a>
+      </nav>
+      <div class="lang-switch" role="group" aria-label="Language">
+        <button class="lang-btn" data-lang="es" aria-label="Español">ES</button>
+        <span class="lang-sep">/</span>
+        <button class="lang-btn" data-lang="en" aria-label="English">EN</button>
+      </div>
+      <button class="nav-toggle" id="nav-toggle" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <main>
+    <!-- Hero -->
+    <section id="inicio" class="hero">
+      <div class="container hero-inner">
+        <div class="hero-photo">
+          <img src="assets/profile.jpg" alt="Juan Pablo Arcos Merchan" id="profile-img">
+        </div>
+        <div class="hero-content">
+          <p class="hero-greeting" data-key="hero.greeting"></p>
+          <h1 class="hero-name" data-key="hero.name"></h1>
+          <p class="hero-title" data-key="hero.title"></p>
+          <p class="hero-tagline" data-key="hero.tagline"></p>
+          <div class="hero-badges" id="hero-badges"></div>
+          <div class="hero-actions">
+            <a href="#contacto" class="btn btn-primary" data-key="hero.cta"></a>
+            <a href="https://www.linkedin.com/in/juanparmer/" target="_blank" rel="noopener" class="btn btn-outline" data-key="hero.ctaLinkedin"></a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Sobre mí -->
+    <section id="sobre-mi" class="section">
+      <div class="container">
+        <h2 class="section-title" data-key="about.title"></h2>
+        <div class="about-text" id="about-text"></div>
+        <div class="about-focus" id="about-focus"></div>
+      </div>
+    </section>
+
+    <!-- Servicios -->
+    <section id="servicios" class="section section-alt">
+      <div class="container">
+        <h2 class="section-title" data-key="services.title"></h2>
+        <div class="cards-grid" id="services-grid"></div>
+      </div>
+    </section>
+
+    <!-- Stack -->
+    <section id="stack" class="section">
+      <div class="container">
+        <h2 class="section-title" data-key="stack.title"></h2>
+        <div class="skills-cloud" id="skills-cloud"></div>
+      </div>
+    </section>
+
+    <!-- Experiencia -->
+    <section id="experiencia" class="section section-alt">
+      <div class="container">
+        <h2 class="section-title" data-key="experience.title"></h2>
+        <div class="timeline" id="timeline"></div>
+      </div>
+    </section>
+
+    <!-- Educación / Certificaciones / Idiomas -->
+    <section id="educacion" class="section">
+      <div class="container">
+        <h2 class="section-title" data-key="education.title"></h2>
+        <div class="edu-grid">
+          <div class="edu-col">
+            <h3 class="col-title" data-key="education.studies"></h3>
+            <ul class="edu-list" id="studies-list"></ul>
+          </div>
+          <div class="edu-col">
+            <h3 class="col-title" data-key="education.certs"></h3>
+            <ul class="edu-list" id="certs-list"></ul>
+          </div>
+          <div class="edu-col">
+            <h3 class="col-title" data-key="education.languages"></h3>
+            <ul class="edu-list" id="languages-list"></ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Contacto -->
+    <section id="contacto" class="section section-dark">
+      <div class="container">
+        <h2 class="section-title" data-key="contact.title"></h2>
+        <p class="contact-sub" data-key="contact.sub"></p>
+        <div class="contact-actions">
+          <a class="btn btn-light" data-key="contact.linkedin" href="https://www.linkedin.com/in/juanparmer/" target="_blank" rel="noopener"></a>
+          <a class="btn btn-light" data-key="contact.email" href="mailto:juanparmer@gmail.com"></a>
+          <a class="btn btn-light" data-key="contact.github" href="https://github.com/juanparmer" target="_blank" rel="noopener"></a>
+        </div>
+        <p class="contact-loc" data-key="contact.location"></p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <span data-key="footer.rights"></span>
+      <span data-key="footer.built"></span>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
