@@ -5,232 +5,214 @@
     es: {
       "nav.home": "Inicio",
       "nav.about": "Sobre mí",
-      "nav.services": "Servicios",
+      "nav.services": "Liderazgo",
       "nav.experience": "Experiencia",
       "nav.education": "Educación",
       "nav.contact": "Contacto",
       "hero.greeting": "Hola, soy",
-      "hero.name": "Juan Pablo Arcos Merchan",
-      "hero.title": "Consultor y Desarrollador Odoo | Experto en Python e Inteligencia Artificial",
-      "hero.tagline": "Más de 8 años implementando, personalizando y migrando proyectos Odoo ERP. Acompaño a empresas en todo el ciclo: desde el análisis hasta el soporte. Disfruto los retos técnicos y resolver problemas de negocio con tecnología.",
+      "hero.name": "Juan Pablo Arcos Merchán",
+      "hero.title": "Director de IT & Transformación Digital | ERP Odoo · Python · IA",
+      "hero.tagline": "Directivo de tecnología con 8+ años transformando empresas con ERP Odoo. Lidero equipos, presupuesto y estrategia TI, y combino visión de negocio con solidez técnica (Python, IA) para convertir la tecnología en resultados.",
       "hero.cta": "Hablemos",
       "hero.ctaLinkedin": "LinkedIn",
-      "hero.badges": ["8+ años en Odoo", "Odoo Consultant & Developer", "Python & IA", "Migraciones de datos y versiones"],
+      "hero.badges": ["Director de IT", "Transformación Digital", "ERP Odoo (v7–v20)", "Python & IA"],
       "about.title": "Sobre mí",
-      "about.p1": "Ingeniero en Automatización Industrial con 8 años de experiencia en proyectos Odoo ERP, especializado en implementación, personalización, migración de datos entre ERPs y actualización de versiones de Odoo. Combino desarrollo en Python, automatización de procesos con Inteligencia Artificial y gestión de proyectos ágiles para entregar soluciones que optimizan la operación de las empresas.",
-      "about.p2": "Disfruto los retos técnicos y me motiva resolver problemas de negocio con tecnología: entiendo el proceso, lo documento y lo materializo en módulos Odoo a la medida. Mi perfil une la visión funcional de un consultor con la solidez técnica de un desarrollador.",
-      "about.focus": ["Consultoría funcional y técnica Odoo", "Desarrollo en Python", "Automatización con IA", "Gestión ágil de proyectos"],
-      "services.title": "Servicios",
+      "about.p1": "Ingeniero y directivo de tecnología con 8+ años liderando la transformación digital de empresas con ERP Odoo. Como Director de Software y Automatización en Agofer, lideré la internalización del ERP y la migración de Odoo 8 a Odoo 14 para +200 usuarios y 8 sedes, logrando eficiencia operativa y «cero papel».",
+      "about.p2": "Mi perfil une la visión estratégica de un directivo con la solidez técnica de un ingeniero: entiendo el negocio, dirijo el equipo y sé qué pide la tecnología. He trabajado en los cuatro ángulos del ERP —integrador, cliente final industrial, partner internacional (Australia) y partner Gold en España— y en dos mercados internacionales.",
+      "about.focus": ["Dirección de IT y transformación digital", "Gobierno y estrategia ERP", "Liderazgo de equipos y proyectos", "Automatización e IA aplicada"],
+      "services.title": "Áreas de liderazgo",
       "services.items": [
-        { "icon": "⚙️", "title": "Implementación de Odoo", "desc": "Configuración funcional de módulos y adaptación del ERP a los procesos y la normativa de cada empresa." },
-        { "icon": "🔄", "title": "Migración de datos y versiones", "desc": "Migración exitosa de datos entre ERPs y actualización de versiones de Odoo sin pérdida de información." },
-        { "icon": "🧩", "title": "Desarrollo de módulos", "desc": "Módulos y funcionalidades personalizadas en Python, alineadas a las mejores prácticas de Odoo." },
-        { "icon": "🤖", "title": "Automatización con IA", "desc": "Optimización de procesos de negocio con inteligencia artificial y automatización inteligente." },
-        { "icon": "🎓", "title": "Consultoría y capacitación", "desc": "Acompañamiento en análisis de brechas, dirección de proyectos y formación de usuarios finales." }
+        { "icon": "🎯", "title": "Dirección de TI", "desc": "Liderazgo del área de tecnología: estrategia, equipo, presupuesto y alineación con los objetivos de negocio." },
+        { "icon": "🚀", "title": "Transformación digital", "desc": "Digitalización de procesos de punta a punta, con foco en eficiencia operativa y «cero papel»." },
+        { "icon": "🧩", "title": "Gobierno ERP (Odoo)", "desc": "Implantación, migración y evolución de Odoo (v7→v20) como núcleo tecnológico del negocio." },
+        { "icon": "🤖", "title": "Automatización e IA", "desc": "Automatización de procesos e inteligencia artificial aplicada para reducir costes y tiempos." },
+        { "icon": "👥", "title": "Liderazgo de proyectos", "desc": "Dirección de proyectos y equipos multidisciplinares con Scrum y metodologías ágiles." }
       ],
       "stack.title": "Stack tecnológico",
       "experience.title": "Experiencia",
       "experience.items": [
         {
-          "role": "Consultor Experto Odoo",
+          "role": "Consultor Senior · Liderazgo de Proyectos",
           "company": "Madetosoft (Partner Gold Odoo)",
           "period": "2026 – Actualidad",
           "loc": "Barcelona, España",
           "bullets": [
-            "Dirección de proyectos Odoo de principio a fin: análisis de brechas, implementación, migración y soporte.",
-            "Acompañamiento a empresas de todos los sectores en la transformación de sus procesos con Odoo.",
-            "Migración de datos entre ERPs y actualización de versiones de Odoo sin pérdida de información."
+            "Liderazgo de 4 proyectos de implantación y evolución Odoo en paralelo.",
+            "Análisis funcional y de negocio, y dirección de la interlocución cliente–equipo técnico.",
+            "Proyectos de integración, migración y automatización (VeriFactu, IA, OCR)."
           ]
         },
         {
-          "role": "Odoo Developer",
-          "company": "Dimension3 Systems Pty Ltd",
-          "period": "2024",
+          "role": "Senior Odoo Developer",
+          "company": "Dimension3 Systems (Partner Odoo)",
+          "period": "2024 – 2026",
           "loc": "Brisbane, Australia",
           "bullets": [
-            "Responsable de la parte técnica de los proyectos: estimación de tareas, análisis, desarrollo y soporte.",
-            "Desarrollo de módulos en Python y modelado de datos en PostgreSQL sobre Odoo.",
-            "Despliegues, versionado con Git y administración en Odoo SH."
+            "Desarrollo backend en Python/Odoo: módulos a medida y personalizaciones.",
+            "Implementación e integración de módulos Odoo (Ventas, CRM, Inventario, Manufactura, eCommerce, POS).",
+            "Soporte, mantenimiento y hosting de instancias Odoo para clientes internacionales (trabajo en inglés)."
           ]
         },
         {
           "role": "Director de Software y Automatización",
           "company": "Agofer S.A.S.",
-          "period": "Jul 2020 – Jul 2023",
-          "loc": "Bogotá, Colombia",
+          "period": "Jul 2020 – Sep 2023",
+          "loc": "Colombia",
           "bullets": [
-            "Lideré la internalización del ERP: el proyecto se formó desde cero y asumimos Odoo en sitio.",
-            "Conformé el equipo interno contratando consultores y desarrolladores, y desarrollé módulos personalizados.",
-            "Migré el ERP de Odoo 8 a Odoo 14 y mejoré los procesos operativos de una empresa con más de 20 sucursales.",
-            "Cumplimiento de plazos, alcance y presupuesto según el cronograma estipulado."
+            "Dirección del área de software y automatización de una de las mayores comercializadoras de acero de Colombia.",
+            "Lideré la migración de la intranet a Odoo y el upgrade de Odoo 8 a Odoo 14 para +200 usuarios y 8 sedes.",
+            "Digitalización de procesos con foco en manufactura (MRP): eficiencia operativa y «cero papel».",
+            "Gestión del equipo de TI y de proveedores de tecnología."
           ]
         },
         {
-          "role": "Scrum Master",
-          "company": "TODOO S.A.S.",
-          "period": "Feb 2020 – Jun 2020",
-          "loc": "Bogotá, Colombia",
-          "bullets": [
-            "Gestión del proceso Scrum y eliminación de impedimentos que afectaban la entrega del producto.",
-            "Facilitación de ceremonias y apoyo al equipo para cumplir los objetivos de cada sprint."
-          ]
-        },
-        {
-          "role": "Consultor Integral",
+          "role": "Líder de Proyectos",
           "company": "Avancys S.A.S.",
-          "period": "Feb 2018 – Feb 2020",
-          "loc": "Bogotá, Colombia",
+          "period": "Feb 2018 – Jun 2020",
+          "loc": "Colombia",
           "bullets": [
-            "Empecé como consultor funcional y pasé al área de desarrollo, convirtiéndome en consultor integral.",
-          "Levantamiento de información, migración de datos, configuración, capacitación y soporte.",
-            "Conocimiento profundo de la parte funcional y técnica de Odoo en proyectos ERP en la nube y facturación electrónica."
+            "Ingresé como consultor Odoo y progresé a Líder de Proyectos (con funciones de director).",
+            "Lideré implementaciones ERP Odoo de punta a punta y la coordinación de equipos funcionales y técnicos.",
+            "Gestión de proyectos de facturación y nómina electrónica (proveedor oficial DIAN)."
           ]
         }
       ],
       "education.title": "Formación",
       "education.studies": "Educación",
       "education.studiesList": [
-        { "title": "Máster en Ingeniería de Software y Sistemas Informáticos", "org": "Universidad de La Rioja, España" },
-        { "title": "Especialización en Gestión de Proyectos de Ingeniería", "org": "Universidad Francisco José de Caldas, Colombia" },
-        { "title": "Ingeniería en Automatización Industrial", "org": "Universidad del Cauca, Colombia" }
+        { "title": "Máster en Ingeniería de Software y Sistemas Informáticos", "org": "UNIR | Universidad Internacional de La Rioja" },
+        { "title": "Especialista en Gestión de Proyectos", "org": "Universidad Distrital Francisco José de Caldas, Colombia" },
+        { "title": "Ingeniero en Automatización Industrial", "org": "Universidad del Cauca, Colombia" }
       ],
       "education.certs": "Certificaciones",
       "education.certsList": [
-        { "title": "Odoo", "org": "Certificado" },
-        { "title": "Scrum Master", "org": "Certificado" },
+        { "title": "Odoo 15", "org": "Certificación oficial · 2021" },
+        { "title": "Odoo 17", "org": "Certificación oficial · 2023" },
+        { "title": "Scrum Master", "org": "ScrumStudy · 2023" },
         { "title": "PSU IA y Data Analytics", "org": "UNIR" }
       ],
       "education.languages": "Idiomas",
       "education.languagesList": [
         { "title": "Español", "org": "Nativo" },
-        { "title": "Inglés", "org": "B2" }
+        { "title": "Inglés", "org": "B2 (IELTS)" }
       ],
       "contact.title": "Contacto",
-      "contact.sub": "¿Tienes un proyecto Odoo en mente o necesitas soporte? Hablemos.",
+      "contact.sub": "¿Buscas un director de IT para liderar tu transformación digital? Hablemos.",
       "contact.linkedin": "LinkedIn",
       "contact.email": "Enviar email",
       "contact.github": "GitHub",
-      "contact.location": "📍 Madrid, España · Disponible para proyectos en remoto y consultoría",
-      "footer.rights": "© 2026 Juan Pablo Arcos Merchan.",
+      "contact.location": "📍 Barcelona, España · Disponible para roles directivos presenciales, híbridos o remotos",
+      "footer.rights": "© 2026 Juan Pablo Arcos Merchán.",
       "footer.built": "Hecho con HTML, CSS y JS · GitHub Pages"
     },
 
     en: {
       "nav.home": "Home",
       "nav.about": "About",
-      "nav.services": "Services",
+      "nav.services": "Leadership",
       "nav.experience": "Experience",
       "nav.education": "Education",
       "nav.contact": "Contact",
       "hero.greeting": "Hi, I'm",
-      "hero.name": "Juan Pablo Arcos Merchan",
-      "hero.title": "Odoo Consultant & Developer | Python & AI Expert",
-      "hero.tagline": "8+ years implementing, customizing, and migrating Odoo ERP projects. I support companies across the full lifecycle: from analysis to support. I enjoy technical challenges and solving business problems with technology.",
+      "hero.name": "Juan Pablo Arcos Merchán",
+      "hero.title": "IT Director & Digital Transformation | Odoo ERP · Python · AI",
+      "hero.tagline": "Technology executive with 8+ years transforming companies with Odoo ERP. I lead teams, budget, and IT strategy, combining business vision with technical depth (Python, AI) to turn technology into results.",
       "hero.cta": "Let's talk",
       "hero.ctaLinkedin": "LinkedIn",
-      "hero.badges": ["8+ years in Odoo", "Odoo Consultant & Developer", "Python & AI", "Data & version migrations"],
+      "hero.badges": ["IT Director", "Digital Transformation", "Odoo ERP (v7–v20)", "Python & AI"],
       "about.title": "About me",
-      "about.p1": "Industrial Automation Engineer with 8 years of experience on Odoo ERP projects, specialized in implementation, customization, cross-ERP data migration, and Odoo version upgrades. I combine Python development, AI-driven process automation, and agile project management to deliver solutions that streamline business operations.",
-      "about.p2": "I enjoy technical challenges and I'm driven by solving business problems with technology: I understand the process, document it, and build tailor-made Odoo modules to match. My profile blends the functional vision of a consultant with the technical depth of a developer.",
-      "about.focus": ["Functional & technical Odoo consulting", "Python development", "AI automation", "Agile project management"],
-      "services.title": "Services",
+      "about.p1": "Engineer and technology executive with 8+ years leading digital transformation with Odoo ERP. As Software & Automation Director at Agofer, I led the ERP internalization and the migration from Odoo 8 to Odoo 14 for 200+ users and 8 locations, achieving operational efficiency and a paperless operation.",
+      "about.p2": "My profile blends the strategic vision of an executive with the technical depth of an engineer: I understand the business, lead the team, and know what technology demands. I have worked across all four angles of ERP — integrator, industrial end customer, international partner (Australia), and Gold Partner in Spain — in two international markets.",
+      "about.focus": ["IT leadership & digital transformation", "ERP governance & strategy", "Team & project leadership", "Automation & applied AI"],
+      "services.title": "Areas of leadership",
       "services.items": [
-        { "icon": "⚙️", "title": "Odoo Implementation", "desc": "Functional module configuration and ERP adaptation to each company's processes and regulations." },
-        { "icon": "🔄", "title": "Data & Version Migration", "desc": "Successful cross-ERP data migrations and Odoo version upgrades with zero data loss." },
-        { "icon": "🧩", "title": "Module Development", "desc": "Custom modules and features in Python, aligned with Odoo best practices." },
-        { "icon": "🤖", "title": "AI Automation", "desc": "Business process optimization with artificial intelligence and smart automation." },
-        { "icon": "🎓", "title": "Consulting & Training", "desc": "Gap analysis, project management, and end-user training." }
+        { "icon": "🎯", "title": "IT Leadership", "desc": "Leading the technology area: strategy, team, budget, and alignment with business goals." },
+        { "icon": "🚀", "title": "Digital Transformation", "desc": "End-to-end process digitalization, focused on operational efficiency and a paperless operation." },
+        { "icon": "🧩", "title": "ERP Governance (Odoo)", "desc": "Implementation, migration, and evolution of Odoo (v7→v20) as the business's technology core." },
+        { "icon": "🤖", "title": "Automation & AI", "desc": "Process automation and applied artificial intelligence to reduce costs and cycle times." },
+        { "icon": "👥", "title": "Project Leadership", "desc": "Leading multidisciplinary projects and teams with Scrum and agile methodologies." }
       ],
       "stack.title": "Tech stack",
       "experience.title": "Experience",
       "experience.items": [
         {
-          "role": "Expert Odoo Consultant",
+          "role": "Senior Consultant · Project Leadership",
           "company": "Madetosoft (Odoo Gold Partner)",
           "period": "2026 – Present",
           "loc": "Barcelona, Spain",
           "bullets": [
-            "Odoo project management end to end: gap analysis, implementation, migration, and support.",
-            "Supporting companies across all industries in transforming their processes with Odoo.",
-            "Cross-ERP data migrations and Odoo version upgrades with zero data loss."
+            "Leading 4 Odoo implementation and evolution projects in parallel.",
+            "Functional and business analysis, and ownership of the client–technical team interface.",
+            "Integration, migration, and automation projects (VeriFactu, AI, OCR)."
           ]
         },
         {
-          "role": "Odoo Developer",
-          "company": "Dimension3 Systems Pty Ltd",
-          "period": "2024",
+          "role": "Senior Odoo Developer",
+          "company": "Dimension3 Systems (Odoo Partner)",
+          "period": "2024 – 2026",
           "loc": "Brisbane, Australia",
           "bullets": [
-            "In charge of the technical side of projects: task estimation, analysis, development, and support.",
-            "Module development in Python and data modeling in PostgreSQL on Odoo.",
-            "Deployments, Git versioning, and Odoo SH administration."
+            "Backend development in Python/Odoo: custom modules and customizations.",
+            "Implementation and integration of Odoo modules (Sales, CRM, Inventory, Manufacturing, eCommerce, POS).",
+            "Support, maintenance, and hosting of Odoo instances for international clients (English-speaking environment)."
           ]
         },
         {
-          "role": "Software and Automation Manager",
+          "role": "Software & Automation Director",
           "company": "Agofer S.A.S.",
-          "period": "Jul 2020 – Jul 2023",
-          "loc": "Bogotá, Colombia",
+          "period": "Jul 2020 – Sep 2023",
+          "loc": "Colombia",
           "bullets": [
-            "Led the ERP internalization: the project was built from scratch and we took Odoo on-site.",
-            "Built the internal team by hiring consultants and developers, and developed custom modules.",
-            "Migrated the ERP from Odoo 8 to Odoo 14 and improved operational processes for a company with 20+ branches.",
-            "Met deadlines, scope, and budget according to the stipulated schedule."
+            "Led the software and automation area of one of Colombia's largest steel distributors.",
+            "Led the intranet-to-Odoo migration and the upgrade from Odoo 8 to Odoo 14 for 200+ users and 8 locations.",
+            "Digitized processes with a manufacturing (MRP) focus: operational efficiency and a paperless operation.",
+            "Managed the IT team and technology suppliers."
           ]
         },
         {
-          "role": "Scrum Master",
-          "company": "TODOO S.A.S.",
-          "period": "Feb 2020 – Jun 2020",
-          "loc": "Bogotá, Colombia",
-          "bullets": [
-            "Managed the Scrum process and removed impediments affecting product delivery.",
-            "Facilitated ceremonies and supported the team to meet each sprint's goals."
-          ]
-        },
-        {
-          "role": "Integral Consultant",
+          "role": "Project Leader",
           "company": "Avancys S.A.S.",
-          "period": "Feb 2018 – Feb 2020",
-          "loc": "Bogotá, Colombia",
+          "period": "Feb 2018 – Jun 2020",
+          "loc": "Colombia",
           "bullets": [
-            "Started as a functional consultant and moved into development, becoming an integral consultant.",
-            "Information gathering, data migration, configuration, training, and support.",
-            "Deep knowledge of the functional and technical sides of Odoo on cloud ERP and e-invoicing projects."
+            "Joined as an Odoo consultant and progressed to Project Leader (with director-level responsibilities).",
+            "Led end-to-end Odoo ERP implementations and coordinated functional and technical teams.",
+            "Managed electronic invoicing and payroll projects (official DIAN provider)."
           ]
         }
       ],
       "education.title": "Education",
       "education.studies": "Education",
       "education.studiesList": [
-        { "title": "Master's in Software Engineering and Computer Systems", "org": "University of La Rioja, Spain" },
-        { "title": "Specialization in Engineering Project Management", "org": "Universidad Francisco José de Caldas, Colombia" },
-        { "title": "Industrial Automation Engineering", "org": "Universidad del Cauca, Colombia" }
+        { "title": "Master's in Software Engineering and Computer Systems", "org": "UNIR | International University of La Rioja" },
+        { "title": "Specialist in Project Management", "org": "Universidad Distrital Francisco José de Caldas, Colombia" },
+        { "title": "Industrial Automation Engineer", "org": "Universidad del Cauca, Colombia" }
       ],
       "education.certs": "Certifications",
       "education.certsList": [
-        { "title": "Odoo", "org": "Certified" },
-        { "title": "Scrum Master", "org": "Certified" },
+        { "title": "Odoo 15", "org": "Official certification · 2021" },
+        { "title": "Odoo 17", "org": "Official certification · 2023" },
+        { "title": "Scrum Master", "org": "ScrumStudy · 2023" },
         { "title": "PSU AI & Data Analytics", "org": "UNIR" }
       ],
       "education.languages": "Languages",
       "education.languagesList": [
         { "title": "Spanish", "org": "Native" },
-        { "title": "English", "org": "B2" }
+        { "title": "English", "org": "B2 (IELTS)" }
       ],
       "contact.title": "Contact",
-      "contact.sub": "Do you have an Odoo project in mind or need support? Let's talk.",
+      "contact.sub": "Looking for an IT director to lead your digital transformation? Let's talk.",
       "contact.linkedin": "LinkedIn",
       "contact.email": "Send email",
       "contact.github": "GitHub",
-      "contact.location": "📍 Madrid, Spain · Available for remote projects and consulting",
-      "footer.rights": "© 2026 Juan Pablo Arcos Merchan.",
+      "contact.location": "📍 Barcelona, Spain · Available for on-site, hybrid, or remote leadership roles",
+      "footer.rights": "© 2026 Juan Pablo Arcos Merchán.",
       "footer.built": "Built with HTML, CSS & JS · GitHub Pages"
     }
   };
 
-  var SKILLS_HOT = ["Odoo", "Python", "Inteligencia Artificial / AI", "PostgreSQL"];
-  var SKILLS_COLD = ["Odoo SH", "SQL", "Docker", "Git", "Machine Learning", "Automatización de procesos", "Scrum", "ERP", "Integraciones", "Consultoría funcional", "Business Analysis"];
+  var SKILLS_HOT = ["Dirección de IT", "Transformación Digital", "ERP Odoo (v7–v20)", "Python", "IA / AI", "PostgreSQL"];
+  var SKILLS_COLD = ["Liderazgo de equipos", "Estrategia tecnológica", "Gestión de proyectos", "Odoo SH", "SQL", "Docker", "Git", "Machine Learning", "Automatización de procesos", "Scrum", "Integraciones", "Business Analysis"];
 
   var lang = localStorage.getItem("jpa-lang") || (navigator.language || "").toLowerCase().startsWith("es") ? "es" : "en";
   if (lang !== "es" && lang !== "en") lang = "en";
@@ -256,8 +238,8 @@
       if (typeof TRANSLATIONS[lang][key] === "string") setText(key);
     });
     document.title = lang === "es"
-      ? "Juan Pablo Arcos Merchan | Consultor y Desarrollador Odoo"
-      : "Juan Pablo Arcos Merchan | Odoo Consultant & Developer";
+      ? "Juan Pablo Arcos Merchán | Director de IT & Transformación Digital"
+      : "Juan Pablo Arcos Merchán | IT Director & Digital Transformation";
     document.documentElement.lang = lang;
   }
 

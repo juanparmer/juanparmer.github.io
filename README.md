@@ -1,6 +1,6 @@
 # juanparmer.github.io
 
-Sitio personal / portfolio de **Juan Pablo Arcos Merchan** — Consultor y Desarrollador Odoo | Experto en Python e Inteligencia Artificial.
+Sitio personal / portfolio de **Juan Pablo Arcos Merchán** — Director de IT & Transformación Digital | ERP Odoo · Python · IA.
 
 Publicado con GitHub Pages: <https://juanparmer.github.io/>
 
